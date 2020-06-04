@@ -3,7 +3,7 @@ x = int(input())
 print("Enter The Second Number")
 y = int(input())
 if x == y:
-  print("Numbers are equal")
+  print("Numbers are not equal")
 else:
   if x < y :
     print (" x is less than y")
